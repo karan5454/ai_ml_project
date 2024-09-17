@@ -1,0 +1,13 @@
+_id,Product_ID,Name,Brand,Category,Price,Rating,Reviews,In_Stock,Launch_Date,Discount
+66e9b8dc343c5c6651abf7a8,1,ProductA,Nike,Sports,75,4.7,250,True,2023-03-01,12
+66e9b8dc343c5c6651abf7a9,2,ProductB,Sony,Electronics,150,4.6,300,True,2022-07-15,15
+66e9b8dc343c5c6651abf7aa,3,ProductC,Nike,Home & Kitchen,60,4.3,180,False,2021-12-10,8
+66e9b8dc343c5c6651abf7ab,4,ProductD,Samsung,Electronics,120,4.9,350,True,2022-01-20,10
+66e9b8dc343c5c6651abf7ac,5,ProductE,Adidas,Sports,55,4.4,230,True,2023-05-25,20
+66e9b8dc343c5c6651abf7ad,6,ProductF,Sony,Electronics,300,4.2,100,True,2022-03-05,25
+66e9c1da78364cf281756d6a,1,ProductA,Nike,Sports,75,4.7,250,True,2023-03-01,12
+66e9c1da78364cf281756d6b,2,ProductB,Sony,Electronics,150,4.6,300,True,2022-07-15,15
+66e9c1da78364cf281756d6c,3,ProductC,Nike,Home & Kitchen,60,4.3,180,False,2021-12-10,8
+66e9c1da78364cf281756d6d,4,ProductD,Samsung,Electronics,120,4.9,350,True,2022-01-20,10
+66e9c1da78364cf281756d6e,5,ProductE,Adidas,Sports,55,4.4,230,True,2023-05-25,20
+66e9c1da78364cf281756d6f,6,ProductF,Sony,Electronics,300,4.2,100,True,2022-03-05,25

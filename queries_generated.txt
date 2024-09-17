@@ -1,0 +1,23 @@
+User Input: Rating < 4.5 AND Reviews > 200 AND (Brand == 'Nike' OR Brand == 'Sony')
+Generated Query: {'Price': {'$gt': 50}}
+
+User Input: Category == 'Electronics' AND Rating >= 4.5 AND In_Stock == True
+Generated Query: {'Price': {'$gt': 50}}
+User Input: Enter query condition (e.g., 'Price > 50'): Rating < 4.5 AND Reviews > 200 AND (Brand == 'Nike' OR 'Sony')
+Generated Query: {'Price': {'$gt': 50}}
+
+User Input: Enter query condition (e.g., 'Price > 50'): Rating < 4.5 AND Reviews > 200 AND (Brand == 'Nike' OR 'Sony')
+Generated Query: {'Price': {'$gt': 50}}
+
+User Input: Category == 'Electronics' AND Rating >= 4.5 AND In_Stock == True
+Generated Query: {'Price': {'$gt': 50}}
+
+User Input: Rating < 4.5 AND Reviews > 200 AND (Brand == 'Nike' OR Brand == 'Sony')
+Generated Query: {'Price': {'$gt': 50}}
+
+User Input: Category == 'Electronics' AND Rating >= 4.5 AND In_Stock == True
+Generated Query: {'Price': {'$gt': 50}}
+
+User Input: Launch_Date > '2022-01-01' AND (Category == 'Home & Kitchen' OR Category == 'Sports') AND Discount >= 10 ORDER BY Price DESC
+Generated Query: {'Price': {'$gt': 50}}
+
